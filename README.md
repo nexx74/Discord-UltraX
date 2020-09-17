@@ -1,5 +1,5 @@
 # Discord-UltraX
-Public version of my BOT install at your own risk
+Public version of my bot install at your own risk
 
 
 
